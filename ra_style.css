@@ -1,0 +1,41 @@
+.raWrapper {
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin: 20px auto;
+	text-align: left;
+	font-size: 100%;
+}
+
+.raHeader {
+	font-weight: bold;
+}
+
+.raWrapper ul {
+	list-style-type: square;
+	list-style-image: none;
+}
+
+.raTagLine {
+	text-align: right;
+	font-size: 85%;
+	color: #999999;
+	float: right;
+	margin-bottom: 1px;
+}
+
+.raTagLine a:link {
+	font-weight: bold;	
+	color: #999999;
+	text-decoration: none;
+}
+
+.raTagLine a:visited {
+	color: #999999;
+}
+
+.raTagLine a:hover {
+	color: #999999;
+	text-decoration: underline;
+}
